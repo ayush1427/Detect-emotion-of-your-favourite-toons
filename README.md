@@ -62,7 +62,7 @@ It is Classification problem with metric evaluation as f1_score. ResNet50 which 
 9. Prediction on the trained model.
 
 ## Files
-1. [Ipynb notebook](https://github.com/ayush1427/Detect-emotion-of-your-favourite-toons/blob/master/My-approach.ipynb) 
+1. [Ipynb notebook](https://github.com/ayush1427/Detect-emotion-of-your-favourite-toons/blob/master/Code.ipynb) 
 
 
 ## Contributions 
